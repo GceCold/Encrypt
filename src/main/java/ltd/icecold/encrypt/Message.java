@@ -1,5 +1,8 @@
 package ltd.icecold.encrypt;
 
+/**
+ * @author ice-cold
+ */
 public class Message {
     private String enData;
     private String enDesPassword;
