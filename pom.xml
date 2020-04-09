@@ -19,13 +19,5 @@
             <artifactId>commons-codec</artifactId>
             <version>1.14</version>
         </dependency>
-        <!-- https://mvnrepository.com/artifact/org.apache.aries.rsa/org.apache.aries.rsa.spi -->
-        <dependency>
-            <groupId>org.apache.aries.rsa</groupId>
-            <artifactId>org.apache.aries.rsa.spi</artifactId>
-            <version>1.14.0</version>
-            <scope>provided</scope>
-        </dependency>
-
     </dependencies>
 </project>
